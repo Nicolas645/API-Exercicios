@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "dominio.openapi.prod-url",
+    "type": "java.lang.String",
+    "description": "A description for 'dominio.openapi.prod-url'"
+  },
+  {
+    "name": "dominio.openapi.dev-url",
+    "type": "java.lang.String",
+    "description": "A description for 'dominio.openapi.dev-url'"
+  },
+  {
+    "name": "numverify.access_key",
+    "type": "java.lang.String",
+    "description": "A description for 'numverify.access_key'"
+  },
+  {
+    "name": "numverify.url",
+    "type": "java.lang.String",
+    "description": "A description for 'numverify.url'"
+  }
+]}
